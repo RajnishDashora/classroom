@@ -39,7 +39,7 @@ Idea here is to pass your components to react-atellier which is going create and
  - **Interactions :** Easy to tweak the properties of a component and see the behavior it can have. 
  - **Runs on same server as of your app :** Its works on the same server as your app on a different route and you just need to pass the necessary components for it to populate. 
 
-#####Benefits of using react-atellier:
+#####Improvements or further enhancements :
 
  - **Documentation is not very impressive :** Documentation is not very impressive which makes it harder on the installation and usage. 
  - **Community support :**  this is not as active and popular as react-storybook, lesser followers and rating. (800 over 4-5 months and no frequent updates)  
