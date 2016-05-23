@@ -90,4 +90,5 @@ module.exports = {
 }
 
 ```    
-8. Start adding stories to your components. please refer ***https://github.com/kadirahq/react-storybook***
+8. Start adding stories(-story.js prefix if you use the same configs) to your components. please refer ***https://github.com/kadirahq/react-storybook***
+Adding a patch which can be used to for the above changes. 
