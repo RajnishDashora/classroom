@@ -40,7 +40,6 @@ configure(loadStories, module);
 The webpack config should look something like this, Also the regular expression can be modified as the your project structure. 
 **7. Add, `.storybook/webpack.config.js`**
 ```
-
 require('babel-register')({
   "presets": ["es2015"]
 });
